@@ -22,3 +22,12 @@ Solutions to the problems from the OpenEdu [Algorithms and Data Structures](http
 
 - [Сортировка целых чисел](03.linear-time-sort/01.int-num-sort/README.md)
 - [Цифровая сортировка](03.linear-time-sort/02.radix-sort/README.md)
+
+## Неделя 4. Элементарные структуры данных
+
+- [Стек](04.basic-data-structures/01.stack/README.md)
+- [Очередь](04.basic-data-structures/02.queue/README.md)
+- [Скобочная последовательность](04.basic-data-structures/03.parentheses/README.md)
+- [Очередь с минимумом](04.basic-data-structures/04.queue-min/README.md)
+- [Quack](04.basic-data-structures/05.quack/README.md)
+- [Постфиксная запись](04.basic-data-structures/06.postfix-notation/README.md)
