@@ -9,3 +9,11 @@ Solutions to the problems from the OpenEdu [Algorithms and Data Structures](http
 - [Сортировка вставками](01.intro/03.insertion-sort/README.md)
 - [Знакомство с жителями Сортлэнда](01.intro/04.sortland/README.md)
 - [Секретарь Своп](01.intro/05.swap-secretary/README.md)
+
+## Неделя 2. Сортировки, основанные на сравнении
+
+- [Сортировка слиянием](02.comparison-sort/01.merge-sort/README.md)
+- [Число инверсий](02.comparison-sort/02.inversion-count/README.md)
+- [Анти-quick-sort](02.comparison-sort/03.anti-quick-sort/README.md)
+- [k-ая порядковая статистика](02.comparison-sort/04.k-order-statistic/README.md)
+- [Сортировка пугалом](02.comparison-sort/05.scarecrow-sort/README.md)
