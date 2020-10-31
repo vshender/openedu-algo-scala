@@ -17,3 +17,8 @@ Solutions to the problems from the OpenEdu [Algorithms and Data Structures](http
 - [Анти-quick-sort](02.comparison-sort/03.anti-quick-sort/README.md)
 - [k-ая порядковая статистика](02.comparison-sort/04.k-order-statistic/README.md)
 - [Сортировка пугалом](02.comparison-sort/05.scarecrow-sort/README.md)
+
+## Неделя 3. Сортировки с линейным временем выполнения
+
+- [Сортировка целых чисел](03.linear-time-sort/01.int-num-sort/README.md)
+- [Цифровая сортировка](03.linear-time-sort/02.radix-sort/README.md)
