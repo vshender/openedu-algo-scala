@@ -31,3 +31,8 @@ Solutions to the problems from the OpenEdu [Algorithms and Data Structures](http
 - [Очередь с минимумом](04.basic-data-structures/04.queue-min/README.md)
 - [Quack](04.basic-data-structures/05.quack/README.md)
 - [Постфиксная запись](04.basic-data-structures/06.postfix-notation/README.md)
+
+## Неделя 5. Алгоритмы, основанные на двоичной куче
+
+- [Куча ли?](05.binary-heap/01.is-heap/README.md)
+- [Очередь с приоритетами](05.binary-heap/02.priority-queue/README.md)
