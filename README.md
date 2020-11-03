@@ -36,3 +36,11 @@ Solutions to the problems from the OpenEdu [Algorithms and Data Structures](http
 
 - [Куча ли?](05.binary-heap/01.is-heap/README.md)
 - [Очередь с приоритетами](05.binary-heap/02.priority-queue/README.md)
+
+## Неделя 6. Введение в алгоритмы поиска
+
+- [Двоичный поиск](06.search-algorithms/01.bin-search/README.md)
+- [Гирлянда](06.search-algorithms/02.garland/README.md)
+- [Высота дерева](06.search-algorithms/03.tree-height/README.md)
+- [Удаление поддеревьев](06.search-algorithms/04.subtrees-delete/README.md)
+- [Проверка корректности](06.search-algorithms/05.correctness-check/README.md)
