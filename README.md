@@ -44,3 +44,11 @@ Solutions to the problems from the OpenEdu [Algorithms and Data Structures](http
 - [Высота дерева](06.search-algorithms/03.tree-height/README.md)
 - [Удаление поддеревьев](06.search-algorithms/04.subtrees-delete/README.md)
 - [Проверка корректности](06.search-algorithms/05.correctness-check/README.md)
+
+## Неделя 7. Сбалансированные деревья поиска
+
+- [Проверка сбалансированности](07.balanced-trees/01.check-balanced/README.md)
+- [Делаю я левый поворот...](07.balanced-trees/02.left-rotation/README.md)
+- [Вставка в АВЛ-дерево](07.balanced-trees/03.avl-tree-insert/README.md)
+- [Удаление из АВЛ-дерева](07.balanced-trees/04.avl-tree-delete/README.md)
+- [Упорядоченное множество на АВЛ-дереве](07.balanced-trees/05.ordered-set/README.md)
