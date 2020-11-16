@@ -52,3 +52,10 @@ Solutions to the problems from the OpenEdu [Algorithms and Data Structures](http
 - [Вставка в АВЛ-дерево](07.balanced-trees/03.avl-tree-insert/README.md)
 - [Удаление из АВЛ-дерева](07.balanced-trees/04.avl-tree-delete/README.md)
 - [Упорядоченное множество на АВЛ-дереве](07.balanced-trees/05.ordered-set/README.md)
+
+### Неделя 8. Хеширование
+
+- [Множество](08.hashing/01.set/README.md)
+- [Прошитый ассоциативный массив](08.hashing/02.linked-map/README.md)
+- [Почти интерактивная хеш-таблица](08.hashing/03.fast-hash-table/README.md)
+- [Убийца хешей](08.hashing/04.hash-killer/README.md)
