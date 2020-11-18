@@ -59,3 +59,9 @@ Solutions to the problems from the OpenEdu [Algorithms and Data Structures](http
 - [Прошитый ассоциативный массив](08.hashing/02.linked-map/README.md)
 - [Почти интерактивная хеш-таблица](08.hashing/03.fast-hash-table/README.md)
 - [Убийца хешей](08.hashing/04.hash-killer/README.md)
+
+### Неделя 9. Введение в поиск подстрок
+
+- [Наивный поиск подстроки в строке](09.string-searching-1/01.naive-search/README.md)
+- [Карта](09.string-searching-1/02.map/README.md)
+- [Быстрый поиск подстроки в строке](09.string-searching-1/03.fast-search/README.md)
