@@ -65,3 +65,9 @@ Solutions to the problems from the OpenEdu [Algorithms and Data Structures](http
 - [Наивный поиск подстроки в строке](09.string-searching-1/01.naive-search/README.md)
 - [Карта](09.string-searching-1/02.map/README.md)
 - [Быстрый поиск подстроки в строке](09.string-searching-1/03.fast-search/README.md)
+
+### Неделя 10. Поиск подстрок
+
+- [Префикс-функция](10.string-searching-2/01.prefix-function/README.md)
+- [Z-функция](10.string-searching-2/02.z-function/README.md)
+- [Декомпозиция строки](10.string-searching-2/03.string-decomposition/README.md)
